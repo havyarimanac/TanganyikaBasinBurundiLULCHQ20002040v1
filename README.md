@@ -1,2 +1,2 @@
-# Supplementary materials
-Codes, data, and outputs supporting the research analyses — provided for transparency and reproducibility.
+# Land-Use/Land-Cover Dynamics and Habitat Quality in the Lake Tanganyika Basin (Burundi)
+This repository provides the datasets, Google Earth Engine (GEE) scripts, spatial data, model parameters, and supporting materials for investigating spatiotemporal land-use/land-cover (LULC) dynamics and habitat quality in the Burundian sector of the Lake Tanganyika Basin. The research examines historical LULC changes from 2000 to 2020 and projected landscape conditions for 2030 and 2040, focusing on the implications of land-use transitions for habitat quality.
